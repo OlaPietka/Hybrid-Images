@@ -1,5 +1,6 @@
 # Hybrid image
-The goal of this project was to create *hybrid image* using the approach
+
+The goal of this project is to create *hybrid image* using the approach
 described in [*SIGGRAPH 2006* paper by Oliva, Torralba, and Schyns](https://stanford.edu/class/ee367/reading/OlivaTorralb_Hybrid_Siggraph06.pdf).
 
 
@@ -42,8 +43,12 @@ Final hybrid image            |  Final hybrid image scale
 
 ### Other examples
 
+<p align="center">
 <img src="results/hybrid_other1.png" width="67%">
+</p>
+<p align="center">
 <img src="results/hybrid_other2.png" width="67%">
+</p>
 
 
 ## Gaussian/Laplacian pyramid 
@@ -56,8 +61,9 @@ which corresponds to the fine details and sharp edges in the image. The
 Laplacian pyramid provides a multi-scale representation of the image's
 high-frequency content, where each level of the pyramid represents a
 different scale or level of detail of the image.
-
+<p align="center">
 <img src="results/hybrid_piramid.png" width="70%">
+</p>
 
 # Image enhancement 
 The purpose of image enhancement is to improve the visual quality of an
@@ -76,8 +82,9 @@ contrast.
 Original image            |  Contrast enhancement
 :-------------------------:|:-------------------------:
 <img src="results/jula_low_contrast.jpg" width="40%">  |  <img src="results/enhanc_equ_out.png" width="40%">
-
+<p align="center">
 <img src="results/enhanc_equ_hists.png" width="80%">
+</p>
 
 ## Color enhancement 
 
