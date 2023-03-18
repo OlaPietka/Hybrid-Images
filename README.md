@@ -1,3 +1,5 @@
+**Full report of the process and results can be found in [AnalysisReport.pdf](https://github.com/OlaPietka/Hybrid-Images-and-Image-Enhancement/blob/main/AnalysisReport.pdf)**
+
 # Hybrid image
 
 The goal of this project is to create *hybrid image* using the approach
