@@ -1,4 +1,4 @@
-**Full report of the process and results can be found in [AnalysisReport.pdf](https://github.com/OlaPietka/Hybrid-Images-and-Image-Enhancement/blob/main/AnalysisReport.pdf)**
+**Full report of the process and results can be found in [AnalysisReport.pdf](https://github.com/OlaPietka/Hybrid-Images/blob/main/AnalysisReport.pdf)**
 
 # Hybrid image
 
